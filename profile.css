@@ -1,0 +1,28 @@
+.container{
+    grid-template-columns: 100px;
+    grid-template-columns: 100px;
+    height: 200px;
+    width: 500px;
+    background-color:rgb(235, 193, 157);
+}
+.container img{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    top:100px;
+    left:140px;
+    right:100px;
+   
+}
+
+.card2{
+    grid-template-columns: 50px;
+    grid-template-columns: 50px;
+    background-color: rgb(182, 124, 132);
+    height:600px;
+    width: 500px;
+    border-bottom-right-radius: 50px;
+    
+}
